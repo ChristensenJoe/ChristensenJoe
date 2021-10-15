@@ -20,7 +20,7 @@ Approaching both programming problems and life with persistance, passion, and cu
 
 🎵 News forum for classical music that allows for searching, posting, liking, and commenting. (React & JSONServer)
 
-**TVInfo** [Demo]Coming Soon! | [Repo](https://github.com/ChristensenJoe/TVInfo) | [Live Site]Coming Soon!
+**TVInfo** [Demo]Coming Soon! | [Repo](https://github.com/ChristensenJoe/TVInfo)
 
 📺 TVInfo is a single-page application that allows a user to search and see information about TV shows and actors, and provide comments and ratings. (Vanilla Javascript & JSONServer)
   

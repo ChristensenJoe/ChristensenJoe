@@ -3,7 +3,7 @@
 Full Stack Software Engineer primarily using React/Redux and Ruby on Rails! Passionate & curious problem solver building programs to deliver easy solutions to users' wants/issues.
 
 
-Approaching programming problems and life with persistance, passion, and curiosity. 
+Approaching both programming problems and life with persistance, passion, and curiosity. 
  
   
 ## Projects :art:

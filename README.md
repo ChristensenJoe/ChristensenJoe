@@ -8,21 +8,21 @@ Approaching both programming problems and life with persistance, passion, and cu
   
 ## Projects :art:
 
-**Budgeteer** [Demo]Coming Soon! | [Repo](https://github.com/ChristensenJoe/budgeteer) | [Live Site](https://budgeteer-finance.herokuapp.com/)
+**📊 Budgeteer** [Demo]Coming Soon! | [Repo](https://github.com/ChristensenJoe/budgeteer) | [Live Site](https://budgeteer-finance.herokuapp.com/)
 
-📊 Budgeting and spending tracker app that allows users to set up automatic paychecks, categorize their balance and log transactions. (React/Redux & Rails)
+Budgeting and spending tracker app that allows users to set up automatic paychecks, categorize their balance and log transactions. (React/Redux & Rails)
 
-**Journey** [Demo]Coming Soon! | [Repo](https://github.com/ChristensenJoe/journey) | [Live Site](https://journey-itinerary.herokuapp.com/)
+**🗺️ Journey** [Demo]Coming Soon! | [Repo](https://github.com/ChristensenJoe/journey) | [Live Site](https://journey-itinerary.herokuapp.com/)
 
-🗺️ Itinerary creation and tracking app designed the creation, sharing, and displaying of trip itineraries. (React & Rails)
+Itinerary creation and tracking app designed the creation, sharing, and displaying of trip itineraries. (React & Rails)
 
-**Reverie Sound Review** [Demo]Coming Soon! | [Repo](https://github.com/ChristensenJoe/reverie-sound-review) | [Live Site](https://hardcore-wright-b83c1e.netlify.app/)
+**🎵 Reverie Sound Review** [Demo]Coming Soon! | [Repo](https://github.com/ChristensenJoe/reverie-sound-review) | [Live Site](https://hardcore-wright-b83c1e.netlify.app/)
 
-🎵 News forum for classical music that allows for searching, posting, liking, and commenting. (React & JSONServer)
+News forum for classical music that allows for searching, posting, liking, and commenting. (React & JSONServer)
 
-**TVInfo** [Demo]Coming Soon! | [Repo](https://github.com/ChristensenJoe/TVInfo)
+**📺 TVInfo** [Demo]Coming Soon! | [Repo](https://github.com/ChristensenJoe/TVInfo)
 
-📺 TVInfo is a single-page application that allows a user to search and see information about TV shows and actors, and provide comments and ratings. (Vanilla Javascript & JSONServer)
+TVInfo is a single-page application that allows a user to search and see information about TV shows and actors, and provide comments and ratings. (Vanilla Javascript & JSONServer)
   
 ## Contact Me :mailbox:
 

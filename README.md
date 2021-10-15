@@ -34,23 +34,58 @@ Approaching programming problems and life with persistance, passion, and curiosi
  <br />
  &emsp;
  
- <!--
  
 ## Skills :computer:
 
+### Languages
+
+
 <p align="left">
-  <img src="https://icongr.am/devicon/html5-plain.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/css3-plain.svg?size=128&color=currentColor" alt="css3" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=currentColor" alt="js" align="left" width="40" height="40"/>
-  <img src="https://i.imgur.com/H8DuLja.png" alt="ts" align="left" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" align="left" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" align="left" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" align="left" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" align="left" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" align="left" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#" align="left" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" align="left" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" align="left" width="40" height="40"/>
+ </p>
+
+ </br>
+ </br>
+ 
+ ### Libraries/Frameworks/Packages
+ 
+ 
+ <p align="left">
   <img src="https://i.imgur.com/rTNkWSQ.png" alt="react" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/vuejs-plain.svg?size=128&color=currentColor" alt="vue" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/ruby-plain.svg?size=128&color=currentColor" alt="ruby" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=128&color=currentColor" alt="rails" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=currentColor" alt="node" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" alt="express" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/amazonwebservices-plain-wordmark.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" align="left" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="mui" align="left" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="rails" align="left" width="40" height="40"/>
+ <img src="https://res.cloudinary.com/practicaldev/image/fetch/s---xCsVK0j--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://reacttraining.com/images/blog/reach-react-router-future.png" alt="react-router" align="left" width="40" height="40"/>
+ <img src="http://www.azavea.com/wp-content/uploads/2015/08/mapbox-logo.png" alt="mapbox" align="left" width="40" height="40"/>
+ <img src="https://avatars.githubusercontent.com/u/37190687?s=200&v=4" alt="apex-charts" align="left" width="40" height="40"/>
+</p>
+</br>
+</br>
+
+### Database Systems
+
+
+ <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" align="left" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="sqlite" align="left" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" align="left" width="40" height="40"/>
+</p>
+
+</br>
+</br>
+
+### Other
+
+
+ <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" align="left" width="40" height="40"/>
 </p>
 
 <br />

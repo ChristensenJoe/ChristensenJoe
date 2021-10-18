@@ -8,7 +8,7 @@ Approaching both programming problems and life with persistance, passion, and cu
   
 ## Projects :art:
 
-**📊 Budgeteer** [Demo](https://www.youtube.com/watch?v=Pi766_bysLg&ab_channel=JoeChristensen) | [Repo](https://github.com/ChristensenJoe/budgeteer) | [Live Site](https://budgeteer-finance.herokuapp.com/)**Currently Down**
+**📊 Budgeteer** [Demo](https://www.youtube.com/watch?v=Pi766_bysLg&ab_channel=JoeChristensen) | [Repo](https://github.com/ChristensenJoe/budgeteer) | [Live Site](https://budgeteer-finance.herokuapp.com/) **Currently Down**
 
 Budgeting and spending tracker app that allows users to set up automatic paychecks, categorize their balance and log transactions. (React/Redux & Rails)
 

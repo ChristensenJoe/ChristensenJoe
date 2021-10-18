@@ -8,11 +8,11 @@ Approaching both programming problems and life with persistance, passion, and cu
   
 ## Projects :art:
 
-**📊 Budgeteer** [Demo](https://www.youtube.com/watch?v=Pi766_bysLg&ab_channel=JoeChristensen) | [Repo](https://github.com/ChristensenJoe/budgeteer) | [Live Site](https://budgeteer-finance.herokuapp.com/) **Currently Down**
+**📊 Budgeteer** [Demo](https://www.youtube.com/watch?v=Pi766_bysLg&ab_channel=JoeChristensen) | [Repo](https://github.com/ChristensenJoe/budgeteer) | [Live Site](https://budgeteer-finance-2.herokuapp.com/)
 
 Budgeting and spending tracker app that allows users to set up automatic paychecks, categorize their balance and log transactions. (React/Redux & Rails)
 
-**🗺️ Journey** [Demo](https://www.youtube.com/watch?v=3vd32fsQDgM&ab_channel=JoeChristensen) | [Repo](https://github.com/ChristensenJoe/journey) | [Live Site](https://journey-itinerary.herokuapp.com/) **Currently Down**
+**🗺️ Journey** [Demo](https://www.youtube.com/watch?v=3vd32fsQDgM&ab_channel=JoeChristensen) | [Repo](https://github.com/ChristensenJoe/journey) | [Live Site](https://journey-itinerary-2.herokuapp.com/)
 
 Itinerary creation and tracking app designed the creation, sharing, and displaying of trip itineraries. (React & Rails)
 

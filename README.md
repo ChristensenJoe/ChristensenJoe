@@ -16,7 +16,7 @@ Budgeting and spending tracker app that allows users to set up automatic paychec
 
 Itinerary creation and tracking app designed the creation, sharing, and displaying of trip itineraries. (React & Rails)
 
-**🎵 Reverie Sound Review** [Demo](https://www.youtube.com/watch?v=M6jcBWbSi4M&ab_channel=JoeChristensen) | [Repo](https://github.com/ChristensenJoe/reverie-sound-review) | [Live Site](https://hardcore-wright-b83c1e.netlify.app/)
+**🎵 Reverie Sound Review** [Demo](https://www.youtube.com/watch?v=M6jcBWbSi4M&ab_channel=JoeChristensen) | [Repo](https://github.com/ChristensenJoe/reverie-sound-review) | [Live Site](https://reverie-sound-review.netlify.app/)
 
 News forum for classical music that allows for searching, posting, liking, and commenting. (React & JSONServer)
 
